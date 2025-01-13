@@ -1,0 +1,1 @@
+These files fix the kerning and alignment of the original Cherry KRK legends.
