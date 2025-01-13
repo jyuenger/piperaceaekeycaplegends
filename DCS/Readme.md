@@ -1,0 +1,1 @@
+These files fix the sizing and alignment of the original DCS KRK legends.
