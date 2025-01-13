@@ -10,19 +10,26 @@ For DCS and SA, the font I use is Gorton Perfected. For GMK Cyl, it's Open Cherr
 
 DCS Notes:
 
-Alphas are 100% width, Regular weight.
-Text mods are 85% width, -75% spacing, Medium weight.
-Capital Q is an alt glyph with a straight tail.
-Lowercase a and g, and £ are custom and hand drawn, to better match the Gorton Modified font used in Signature Plastics's molds.
-In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
+• Alphas are 100% width, Regular weight.
+
+• Text mods are 85% width, -75% spacing, Medium weight.
+
+• Capital Q is an alt glyph with a straight tail.
+
+• Lowercase a and g, and £ are custom and hand drawn, to better match the Gorton Modified font used in Signature Plastics's molds.
+
+• In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
 
 SA Notes:
 
-Alphas are 100% width, Regular weight.
-Text mods are 90% width, Medium weight.
-Capital Q is an alt glyph with a straight tail.
-In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
+• Alphas are 100% width, Regular weight.
+
+• Text mods are 90% width, Medium weight.
+
+• Capital Q is an alt glyph with a straight tail.
+
+• In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
 
 GMK Cyl Notes:
 
-I've modified the default Open Cherry kerning by hand on a key by key basis to try to avoid weird gaps like "Shif t".
+•I've modified the default Open Cherry kerning by hand on a key by key basis to try to avoid weird gaps like "Shif t".
