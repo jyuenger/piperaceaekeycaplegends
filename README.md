@@ -10,7 +10,7 @@ For DCS and SA, the font I use is Gorton Perfected. For GMK Cyl, it's Open Cherr
 
 DCS Notes:
 
-• Alphas are 100% width, Regular weight.
+• Alphas are 100% width, default spacing, Regular weight.
 
 • Text mods are 85% width, -75% spacing, Medium weight.
 
@@ -22,9 +22,9 @@ DCS Notes:
 
 SA Notes:
 
-• Alphas are 100% width, Regular weight.
+• Alphas are 100% width, default spacing, Regular weight.
 
-• Text mods are 90% width, Medium weight.
+• Text mods are 90% width, default spacing, Medium weight.
 
 • Capital Q is an alt glyph with a straight tail.
 
@@ -32,4 +32,4 @@ SA Notes:
 
 GMK Cyl Notes:
 
-•I've modified the default Open Cherry kerning by hand on a key by key basis to try to avoid weird gaps like "Shif t".
+• I've modified the default Open Cherry kerning by hand on a key by key basis to try to avoid weird gaps like "Shif t".
