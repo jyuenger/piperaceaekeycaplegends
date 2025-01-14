@@ -6,13 +6,13 @@ For things like that, I'm posting the files here in my own repo to make them ava
 
 
 
-Fonts:
+## Fonts
 
 For DCS and SA, the font I use is Gorton Perfected. For GMK Cyl, it's Open Cherry.
 
 
 
-DCS Notes:
+## DCS Notes
 
 • Alphas are 100% width, default spacing, Regular weight.
 
@@ -26,7 +26,7 @@ DCS Notes:
 
 
 
-SA Notes:
+## SA Notes
 
 • Alphas are 100% width, default spacing, Regular weight.
 
@@ -38,6 +38,6 @@ SA Notes:
 
 
 
-GMK Cyl Notes:
+## GMK Cyl Notes
 
 • I've modified the default Open Cherry kerning by hand on a key by key basis to try to avoid weird gaps like "Shif t".
