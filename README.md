@@ -5,9 +5,11 @@ This isn't meant to rival or replace ImperfectLink's repo. In general, I submit 
 For things like that, I'm posting the files here in my own repo to make them available to anyone else who may share the same preferences, or to use as a jumping-off point.
 
 
+
 Fonts:
 
 For DCS and SA, the font I use is Gorton Perfected. For GMK Cyl, it's Open Cherry.
+
 
 
 DCS Notes:
@@ -23,6 +25,7 @@ DCS Notes:
 • In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
 
 
+
 SA Notes:
 
 • Alphas are 100% width, default spacing, Regular weight.
@@ -32,6 +35,7 @@ SA Notes:
 • Capital Q is an alt glyph with a straight tail.
 
 • In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
+
 
 
 GMK Cyl Notes:
