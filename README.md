@@ -22,7 +22,7 @@ For DCS and SA, the font I use is Gorton Perfected. For GMK Cyl, it's Open Cherr
 
 • Lowercase a and g, and £ are custom and hand drawn, to better match the Gorton Modified font used in Signature Plastics's molds.
 
-• In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
+• In all instances, 3 is taken from the Gotham Rounded font and stretched to the same proportions as the Gorton Perfected 3 digit.
 
 
 
@@ -34,7 +34,7 @@ For DCS and SA, the font I use is Gorton Perfected. For GMK Cyl, it's Open Cherr
 
 • Capital Q is an alt glyph with a straight tail.
 
-• In all instances, 3 is taken from the Open Gorton font and stretched to the same proportions as the Gorton Perfected 3 digit.
+• In all instances, 3 is taken from the Gotham Rounded font and stretched to the same proportions as the Gorton Perfected 3 digit.
 
 
 
